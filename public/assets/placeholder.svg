@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="23px" viewBox="0 0 14 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>placeholder</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="contacts" transform="translate(-1252.000000, -844.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="contact-info" transform="translate(1227.000000, 613.000000)">
+                <g id="location-icon" transform="translate(0.000000, 210.000000)">
+                    <g id="placeholder" transform="translate(25.000000, 21.000000)">
+                        <path d="M11.6184749,2.35935139 C10.3330323,0.837975025 8.62384056,0 6.80605003,0 C4.98790417,0 3.27906738,0.837975025 1.99362453,2.35935139 C-0.385261004,5.17444362 -0.680891572,10.471118 1.35338739,13.6802052 L6.80605003,23 L12.2505497,13.6932261 C14.2929909,10.471118 13.9973604,5.17444362 11.6184749,2.35935139 Z M7.10291648,10.880527 C5.39232295,10.880527 4,9.56118887 4,7.94026351 C4,6.31933824 5.39232295,5 7.10291648,5 C8.8135101,5 10.205833,6.31933824 10.205833,7.94026351 C10.205833,9.56118887 8.8135101,10.880527 7.10291648,10.880527 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

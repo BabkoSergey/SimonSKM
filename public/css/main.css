@@ -1,0 +1,65 @@
+@import "https://fonts.googleapis.com/css?family=Archivo";
+@import "https://fonts.googleapis.com/css?family=Archivo";
+@import "https://fonts.googleapis.com/css?family=Archivo";
+@import "https://fonts.googleapis.com/css?family=Archivo";
+@import "https://fonts.googleapis.com/css?family=Archivo";
+@import "https://fonts.googleapis.com/css?family=Poppins";
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box
+}
+
+html {
+    font-family: archivo, sans-serif, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    height: 100%;
+    min-height: 100%
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    min-height: 100%;
+    background: #fefefe
+}
+
+.wrapper {
+    height: 100vh;
+    padding: 50px;
+    overflow: hidden
+}
+
+.coming-soon {
+    background: url("../img/auth-banner.png") no-repeat center/cover;
+    position: relative;
+    overflow: hidden;
+    min-height: 100%;
+    padding: 50px 0
+}
+
+@media screen and (max-width:992px) {
+    .coming-soon {
+        padding: 25px 0
+    }    
+}
+
+@media screen and (max-width:768px) {    
+    .wrapper {
+        padding: 0
+    }    
+}
+
+@media screen and (max-width:550px) {
+    .wrapper {
+        padding: 0
+    }    
+}
+
+@media screen and (max-width:440px) {
+    .wrapper {
+        padding: 0
+    }    
+}

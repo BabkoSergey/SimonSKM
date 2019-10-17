@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>chat</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="product-page" transform="translate(-1689.000000, -503.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="btn" transform="translate(1512.000000, 480.000000)">
+                <g id="chat" transform="translate(177.000000, 23.000000)">
+                    <path d="M17.9299998,12.8600003 C19.2282355,11.572512 19.9711955,9.82817173 20,8.00000006 C20,3.57999989 15.5200005,0 10,0 C4.48000014,0 0,3.57999989 0,8.00000006 C0,12.42 4.48000014,16.0000001 10,16.0000001 C11.1015153,16.00069 12.1980822,15.8526868 13.2599998,15.5599998 L17.9999995,18 L17.9299998,12.8600003 Z" id="d9e9402b-be06-4b1e-b74e-1d0f5c1dabda"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
